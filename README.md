@@ -1,5 +1,11 @@
 # AB_Test
 ### Jupyter Notebook for A/B Test of specific experiment.
+#### Calculating the requiered Sample Size
+#### Creating Control and Treatment Samples
+#### Visualising the results
+#### Testing the hypothesis 
+
+
 ## Calculating the requiered Sample Size
 ![alt text](https://github.com/yctasoglu/AB_Test/blob/main/Snapshots/956FE666-4D4F-4365-A0BF-CBDDCE517E73.png)
 ## Creating Control and Treatment Samples
